@@ -1,0 +1,20 @@
+com/example/android/shushme/provider/Geofencing.java
+ com.example.android.shushme.provider.Geofencing
+com/example/android/shushme/provider/GeofenceBroadcastReceiver.java
+ com.example.android.shushme.provider.GeofenceBroadcastReceiver
+com/example/android/shushme/provider/PlaceDbHelper.java
+ com.example.android.shushme.provider.PlaceDbHelper
+com/example/android/shushme/BuildConfig.java
+ com.example.android.shushme.BuildConfig
+com/example/android/shushme/PlaceListAdapter.java
+ com.example.android.shushme.PlaceListAdapter
+ com.example.android.shushme.PlaceListAdapter$PlaceViewHolder
+com/example/android/shushme/provider/PlaceContract.java
+ com.example.android.shushme.provider.PlaceContract
+ com.example.android.shushme.provider.PlaceContract$PlaceEntry
+com/example/android/shushme/provider/PlaceContentProvider.java
+ com.example.android.shushme.provider.PlaceContentProvider
+com/example/android/shushme/MainActivity.java
+ com.example.android.shushme.MainActivity
+ com.example.android.shushme.MainActivity$1
+ com.example.android.shushme.MainActivity$2
