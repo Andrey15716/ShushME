@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_my_location_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_my_location_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_globe_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_globe_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_gps_fixed_white_24dp.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_gps_fixed_white_24dp.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_place_accent_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_place_accent_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_my_location_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_my_location_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_globe_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_globe_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_globe_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_globe_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_volume_up_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_volume_up_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_place_accent_24dp.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_place_accent_24dp.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_active_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_active_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_volume_up_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_volume_up_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_place_accent_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_place_accent_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_my_location_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_my_location_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_my_location_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_my_location_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_active_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_active_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_my_location_primary_24dp.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_my_location_primary_24dp.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_gps_fixed_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_gps_fixed_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gps_fixed_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_gps_fixed_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_volume_up_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_volume_up_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_my_location_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_my_location_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_volume_off_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_volume_up_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_volume_up_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gps_fixed_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_gps_fixed_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_active_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_active_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_volume_up_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume_up_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_my_location_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_my_location_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_volume_up_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_volume_up_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_active_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_active_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_active_primary_24dp.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_active_primary_24dp.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_volume_off_white_24dp.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_volume_off_white_24dp.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_globe_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_globe_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_globe_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_globe_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gps_fixed_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_gps_fixed_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_volume_up_white_24dp.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_volume_up_white_24dp.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_active_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_active_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_place_card.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\src\\main\\res\\layout\\item_place_card.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_place_accent_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_place_accent_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_place_accent_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_place_accent_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_active_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_active_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gps_fixed_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_gps_fixed_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_place_accent_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_place_accent_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_globe_primary_24dp.xml.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_globe_primary_24dp.xml"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_globe_primary_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_globe_primary_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_place_accent_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_place_accent_24dp.png"
+    },
+    {
+        "merged": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_gps_fixed_white_24dp.png.flat",
+        "source": "A:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_gps_fixed_white_24dp.png"
+    }
+]
