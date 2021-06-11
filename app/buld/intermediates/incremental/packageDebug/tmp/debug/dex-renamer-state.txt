@@ -1,0 +1,4 @@
+#Fri Mar 12 22:32:29 MSK 2021
+base.0=A\:\\AdvancedAndroid_Shushme-StarterCode\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
